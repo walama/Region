@@ -1,0 +1,53 @@
+Fort Worth:
+  Abilene: leaf
+  Arlington:
+    Grand Prairie:
+      DeSoto: leaf
+    Mansfield: leaf
+  Denton:
+    McKinney:
+      Sherman: leaf
+    Wichita Falls: leaf
+  Lubbock:
+    Amarillo: leaf
+    Midland:
+      San Angelo: leaf
+    Odessa: leaf
+  North Richland Hills: leaf
+Garland:
+  Mesquite:
+    Forney: leaf
+  Rowlett:
+    Wylie: leaf
+  Tyler:
+    Longview: leaf
+Irving:
+  Euless: leaf
+Oklahoma City:
+  Edmond:
+    Stillwater: leaf
+  Midwest City: leaf
+  Moore: leaf
+  Norman:
+    Lawton: leaf
+  Tulsa:
+    Broken Arrow: leaf
+    Fayetteville:
+      Fort Smith: leaf
+      Rogers:
+        Bentonville: leaf
+      Springdale: leaf
+    Wichita: leaf
+Plano:
+  Allen: leaf
+  Carrollton:
+    Lewisville:
+      Flower Mound:
+        Grapevine: leaf
+  Frisco:
+    Little Elm: leaf
+  Richardson: leaf
+Shreveport:
+  Bossier City: leaf
+  Monroe: leaf
+  Texarkana: leaf

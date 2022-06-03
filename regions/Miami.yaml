@@ -1,0 +1,84 @@
+Hialeah:
+  Doral: leaf
+  Fort Lauderdale:
+    Coral Springs:
+      Boca Raton:
+        Boynton Beach: leaf
+        Delray Beach: leaf
+      Margate: leaf
+      Sunrise: leaf
+      Tamarac: leaf
+    Plantation:
+      Lauderhill: leaf
+    Pompano Beach:
+      Deerfield Beach:
+        Coconut Creek: leaf
+  Fountainebleau: leaf
+  Hollywood: leaf
+  Miramar:
+    Country Club: leaf
+    Miami Gardens:
+      North Miami: leaf
+  Pembroke Pines:
+    Davie: leaf
+    Weston: leaf
+  The Hammocks: leaf
+Homestead: leaf
+Kendall:
+  Kendale Lakes: leaf
+  Tamiami: leaf
+Miami Beach: leaf
+Tampa:
+  Brandon: leaf
+  Cape Coral:
+    Bonita Springs:
+      Lehigh Acres: leaf
+    Fort Myers: leaf
+  Lakeland:
+    Zephyrhills:
+      Wesley Chapel: leaf
+  Orlando:
+    Alafaya:
+      Titusville: leaf
+    Deltona:
+      Daytona Beach: leaf
+      Port Orange: leaf
+      Sanford: leaf
+    Jacksonville:
+      Brunswick: leaf
+      Gainesville: leaf
+      Palm Coast:
+        Ocala: leaf
+        St. Augustine: leaf
+      Tallahassee:
+        Panama City:
+          Dothan: leaf
+        Valdosta: leaf
+    Kissimmee:
+      Poinciana: leaf
+      St. Cloud: leaf
+      Winter Haven:
+        Sebring: leaf
+    Leesburg:
+      The Villages: leaf
+    Palm Bay:
+      Melbourne: leaf
+    Pine Hills:
+      Apopka: leaf
+    Port St. Lucie:
+      West Palm Beach:
+        Jupiter: leaf
+        Palm Beach Gardens: leaf
+        Wellington: leaf
+  Riverview: leaf
+  Sarasota:
+    Bradenton: leaf
+    North Port:
+      Port Charlotte: leaf
+  Spring Hill: leaf
+  St. Petersburg:
+    Clearwater:
+      Largo:
+        Pinellas Park: leaf
+      Palm Harbor: leaf
+  Town 'n' Country: leaf

@@ -1,0 +1,88 @@
+Athens: leaf
+Birmingham:
+  Anniston: leaf
+  Gadsden: leaf
+  Hoover: leaf
+  Huntsville:
+    Decatur: leaf
+    Florence: leaf
+    Madison: leaf
+  Montgomery: leaf
+  Tuscaloosa: leaf
+Charlotte:
+  Charleston:
+    Mount Pleasant: leaf
+    Myrtle Beach:
+      Florence: leaf
+    North Charleston:
+      Summerville: leaf
+    Savannah:
+      Hilton Head Island:
+        Beaufort: leaf
+      Hinesville: leaf
+  Columbia:
+    Augusta: leaf
+    Sumter: leaf
+  Concord:
+    Huntersville: leaf
+    Kannapolis: leaf
+  Gastonia: leaf
+  Greenville:
+    Asheville:
+      Johnson City:
+        Bristol: leaf
+      Kingsport: leaf
+    Mauldin:
+      Anderson: leaf
+    Spartanburg: leaf
+  Hickory: leaf
+  Raleigh:
+    Cary:
+      Apex: leaf
+    Durham:
+      Chapel Hill: leaf
+    Fayetteville:
+      Wilmington:
+        Jacksonville:
+          New Bern: leaf
+    Greensboro:
+      Burlington: leaf
+      High Point: leaf
+      Roanoke:
+        Blacksburg: leaf
+        Lynchburg: leaf
+    Greenville:
+      Goldsboro: leaf
+      Rocky Mount: leaf
+  Rock Hill: leaf
+  Winston-Salem: leaf
+Columbus:
+  Albany: leaf
+  Auburn: leaf
+  Macon: leaf
+  Warner Robins: leaf
+Gainesville: leaf
+Knoxville:
+  Chattanooga:
+    Cleveland: leaf
+    Dalton:
+      Rome: leaf
+  Morristown: leaf
+Nashville:
+  Clarksville:
+    Bowling Green: leaf
+  Franklin: leaf
+  Hendersonville: leaf
+  Murfreesboro:
+    Cookeville: leaf
+    Smyrna: leaf
+Roswell:
+  Cartersville: leaf
+Sandy Springs:
+  Brookhaven: leaf
+  Johns Creek:
+    Alpharetta: leaf
+  Marietta: leaf
+Smyrna: leaf
+South Fulton: leaf
+Stonecrest: leaf

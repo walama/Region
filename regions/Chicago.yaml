@@ -1,0 +1,209 @@
+Aurora:
+  Elgin:
+    Arlington Heights:
+      Des Plaines: leaf
+      Mount Prospect: leaf
+    DeKalb: leaf
+    Palatine: leaf
+    Schaumburg:
+      Hoffman Estates: leaf
+  Joliet:
+    Kankakee: leaf
+  Naperville:
+    Bolingbrook:
+      Orland Park: leaf
+    Wheaton: leaf
+Cicero:
+  Berwyn: leaf
+  Oak Lawn: leaf
+  Oak Park: leaf
+  Skokie: leaf
+Detroit:
+  Ann Arbor:
+    South Lyon:
+      Farmington Hills:
+        Novi: leaf
+  Cincinnati:
+    Dayton:
+      Kettering: leaf
+      Middletown:
+        Hamilton: leaf
+      Springfield: leaf
+    Louisville:
+      Elizabethtown: leaf
+      Evansville:
+        Owensboro: leaf
+      Lexington: leaf
+  Cleveland:
+    Akron:
+      Canton: leaf
+      Youngstown:
+        Erie: leaf
+    Buffalo:
+      Rochester:
+        Syracuse:
+          Utica: leaf
+          Watertown: leaf
+    Lorain:
+      Elyria: leaf
+      Mansfield: leaf
+    Parma: leaf
+  Columbus:
+    Huntington:
+      Charleston:
+        Beckley: leaf
+        Parkersburg: leaf
+    Newark: leaf
+  Dearborn:
+    Dearborn Heights: leaf
+    Taylor: leaf
+  Flint:
+    Saginaw:
+      Bay City: leaf
+      Midland: leaf
+  Livonia:
+    Southfield: leaf
+  Sterling Heights:
+    Port Huron: leaf
+    Rochester Hills:
+      Pontiac: leaf
+    Troy:
+      Royal Oak: leaf
+  Toledo:
+    Fort Wayne:
+      Lima: leaf
+  Warren:
+    St. Clair Shores: leaf
+  Westland: leaf
+Evanston: leaf
+Gary: leaf
+Hammond:
+  Tinley Park: leaf
+Indianapolis:
+  Anderson: leaf
+  Bloomington:
+    Columbus: leaf
+    Terre Haute: leaf
+  Carmel:
+    Kokomo: leaf
+  Fishers:
+    Noblesville: leaf
+  Greenwood: leaf
+  Lafayette:
+    West Lafayette: leaf
+  Muncie: leaf
+Kansas City:
+  Independence:
+    Blue Springs: leaf
+  Kansas City:
+    Shawnee: leaf
+    St. Joseph: leaf
+  Omaha:
+    Bellevue: leaf
+    Council Bluffs: leaf
+    Des Moines:
+      Ames: leaf
+      Ankeny: leaf
+      West Des Moines: leaf
+    Lincoln:
+      Grand Island: leaf
+    Sioux Falls:
+      Sioux City: leaf
+  Overland Park:
+    Lee's Summit: leaf
+    Olathe:
+      Lenexa: leaf
+    Topeka:
+      Lawrence: leaf
+      Manhattan: leaf
+  Springfield:
+    Joplin: leaf
+Milwaukee:
+  Appleton:
+    Oshkosh:
+      Fond du Lac: leaf
+    Wausau: leaf
+  Grand Rapids:
+    Holland: leaf
+    Kalamazoo:
+      Battle Creek: leaf
+    Lansing:
+      Jackson: leaf
+    Muskegon:
+      Traverse City: leaf
+    Wyoming:
+      Kentwood: leaf
+  Green Bay: leaf
+  Madison:
+    Davenport:
+      Cedar Rapids:
+        Dubuque: leaf
+        Iowa City: leaf
+        Waterloo: leaf
+    La Crosse: leaf
+    Rockford:
+      Beloit: leaf
+      Janesville: leaf
+  Racine: leaf
+  Sheboygan: leaf
+  Waukesha: leaf
+  West Allis: leaf
+  West Bend: leaf
+Minneapolis:
+  Blaine: leaf
+  Bloomington:
+    Apple Valley: leaf
+    Burnsville: leaf
+    Eagan: leaf
+    Eden Prairie: leaf
+    Edina: leaf
+    Lakeville: leaf
+    Mankato: leaf
+  Brooklyn Park:
+    Coon Rapids: leaf
+  Fargo:
+    Bismarck: leaf
+    Grand Forks: leaf
+  Maple Grove: leaf
+  Plymouth:
+    Minnetonka: leaf
+  St. Cloud: leaf
+  St. Paul:
+    Duluth: leaf
+    Eau Claire: leaf
+    Rochester: leaf
+    Woodbury: leaf
+Peoria:
+  Bloomington:
+    Normal: leaf
+  Champaign: leaf
+  Springfield:
+    Decatur: leaf
+Round Lake Beach:
+  Kenosha: leaf
+  Waukegan: leaf
+South Bend:
+  Benton Harbor: leaf
+  Elkhart: leaf
+  Michigan City: leaf
+  Mishawaka: leaf
+St. Louis:
+  Alton: leaf
+  Cape Girardeau: leaf
+  Carbondale: leaf
+  Columbia:
+    Jefferson City: leaf
+  Memphis:
+    Bartlett: leaf
+    Collierville: leaf
+    Jackson: leaf
+    Jonesboro: leaf
+    Little Rock:
+      Conway: leaf
+      Hot Springs: leaf
+      North Little Rock: leaf
+    Southaven: leaf
+  O'Fallon:
+    St. Peters: leaf
+  St. Charles:
+    Florissant: leaf

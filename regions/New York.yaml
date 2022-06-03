@@ -1,0 +1,160 @@
+Boston:
+  Brockton:
+    Taunton: leaf
+  Cambridge:
+    Framingham: leaf
+    Lynn:
+      Peabody: leaf
+      Revere: leaf
+    Newton:
+      Waltham: leaf
+    Somerville:
+      Malden: leaf
+      Medford: leaf
+  Nashua:
+    Lowell:
+      Lawrence:
+        Haverhill: leaf
+        Methuen Town: leaf
+    Manchester:
+      Dover: leaf
+      Portsmouth: leaf
+  Portland:
+    Bangor: leaf
+    Lewiston: leaf
+  Providence:
+    Barnstable: leaf
+    Cranston: leaf
+    Hartford:
+      Albany:
+        Burlington: leaf
+        Glens Falls: leaf
+        Pittsfield: leaf
+        Saratoga Springs: leaf
+        Schenectady: leaf
+      New Britain: leaf
+      Norwich: leaf
+      Springfield:
+        Chicopee: leaf
+    New Bedford:
+      Fall River: leaf
+    Pawtucket: leaf
+    Warwick: leaf
+    Worcester:
+      Leominster: leaf
+  Quincy:
+    Weymouth: leaf
+Brooklyn:
+  Staten Island:
+    New Brunswick: leaf
+    Newark:
+      East Orange: leaf
+      Elizabeth:
+        Bayonne: leaf
+        Plainfield: leaf
+      Paterson:
+        Clifton: leaf
+        Passaic: leaf
+    Perth Amboy: leaf
+Manhattan:
+  Jersey City: leaf
+  Union City:
+    Hoboken: leaf
+    West New York: leaf
+Philadelphia:
+  Allentown:
+    Bethlehem:
+      East Stroudsburg: leaf
+    Scranton:
+      Binghamton:
+        Elmira: leaf
+        Ithaca: leaf
+      Hazleton: leaf
+  Atlantic City:
+    Dover: leaf
+    Vineland: leaf
+  Camden: leaf
+  Trenton:
+    Levittown: leaf
+  Wilmington: leaf
+Queens:
+  Bronx:
+    Bridgeport:
+      Danbury: leaf
+      Milford: leaf
+      'Milford city ': leaf
+      New Haven:
+        Waterbury:
+          Bristol: leaf
+          Meriden: leaf
+        West Haven: leaf
+      Poughkeepsie:
+        Kingston: leaf
+        Middletown: leaf
+    Yonkers:
+      Mount Vernon: leaf
+      New Rochelle:
+        White Plains: leaf
+      Stamford:
+        Norwalk:
+          Brentwood: leaf
+  Levittown: leaf
+Washington:
+  Arlington:
+    Alexandria:
+      Dale City: leaf
+      Waldorf: leaf
+    Centreville:
+      Ashburn: leaf
+    Frederick:
+      Germantown:
+        Gaithersburg: leaf
+        Leesburg: leaf
+        Rockville:
+          Aspen Hill: leaf
+          North Bethesda: leaf
+    Fredericksburg:
+      Charlottesville:
+        Harrisonburg: leaf
+        Staunton: leaf
+    Reston: leaf
+  Baltimore:
+    Columbia:
+      Ellicott City: leaf
+    Dundalk: leaf
+    Glen Burnie:
+      Severn: leaf
+    Harrisburg:
+      State College:
+        Williamsport: leaf
+      York:
+        Hagerstown:
+          Altoona: leaf
+          Chambersburg: leaf
+          Winchester: leaf
+        Hanover: leaf
+    Lancaster:
+      Lebanon: leaf
+      Reading:
+        Pottstown: leaf
+    Salisbury: leaf
+    Towson: leaf
+  Bowie: leaf
+  Pittsburgh:
+    Johnstown: leaf
+    Monessen: leaf
+    Morgantown: leaf
+    Weirton: leaf
+    Wheeling: leaf
+  Silver Spring:
+    Bethesda: leaf
+    Wheaton: leaf
+  Virginia Beach:
+    Chesapeake:
+      Suffolk: leaf
+    Norfolk:
+      Newport News:
+        Hampton: leaf
+        Williamsburg: leaf
+      Portsmouth: leaf
+    Richmond: leaf

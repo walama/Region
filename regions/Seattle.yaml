@@ -1,0 +1,50 @@
+Bellevue:
+  Kirkland:
+    Redmond: leaf
+    Shoreline: leaf
+  Sammamish: leaf
+Bremerton: leaf
+Marysville:
+  Bellingham:
+    Mount Vernon: leaf
+  Everett: leaf
+Olympia:
+  Lacey: leaf
+Portland:
+  Beaverton:
+    Aloha: leaf
+    Tigard: leaf
+  Eugene:
+    Bend: leaf
+    Medford:
+      Grants Pass: leaf
+      Redding: leaf
+    Springfield: leaf
+  Gresham: leaf
+  Hillsboro: leaf
+  Salem:
+    Albany: leaf
+    Corvallis: leaf
+  Vancouver:
+    Longview: leaf
+Spokane:
+  Coeur d'Alene:
+    Missoula:
+      Great Falls: leaf
+      Helena: leaf
+  Kennewick:
+    Pasco:
+      Richland: leaf
+      Walla Walla: leaf
+    Yakima:
+      Wenatchee: leaf
+  Spokane Valley:
+    Lewiston: leaf
+Tacoma:
+  Federal Way: leaf
+  Kent:
+    Auburn: leaf
+    Renton:
+      Burien: leaf
+  Lakewood: leaf
+  South Hill: leaf

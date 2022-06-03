@@ -1,0 +1,259 @@
+Bakersfield: leaf
+Glendale:
+  Burbank: leaf
+  East Los Angeles:
+    Alhambra:
+      Monterey Park: leaf
+    Montebello: leaf
+    South Gate:
+      Florence-Graham: leaf
+      Huntington Park: leaf
+      Lynwood: leaf
+  El Monte:
+    Arcadia: leaf
+    Baldwin Park:
+      Azusa: leaf
+    Rosemead: leaf
+  Pasadena: leaf
+Lancaster:
+  Palmdale: leaf
+Las Vegas:
+  Henderson:
+    Bullhead City: leaf
+    Lake Havasu City: leaf
+    Paradise:
+      Enterprise: leaf
+  North Las Vegas:
+    St. George: leaf
+    Sunrise Manor: leaf
+  Salt Lake City:
+    Millcreek: leaf
+    Ogden:
+      Billings:
+        Bozeman: leaf
+      Boise:
+        Meridian: leaf
+        Nampa:
+          Caldwell: leaf
+      Idaho Falls:
+        Pocatello:
+          Twin Falls: leaf
+      Layton: leaf
+      Logan: leaf
+    Provo:
+      Grand Junction: leaf
+      Orem: leaf
+    West Jordan:
+      South Jordan:
+        Herriman: leaf
+    West Valley City:
+      Sandy:
+        Lehi: leaf
+      Taylorsville: leaf
+  Spring Valley: leaf
+Long Beach:
+  Anaheim:
+    Fullerton:
+      Buena Park: leaf
+      La Habra: leaf
+    Orange: leaf
+    Placentia: leaf
+    Pomona:
+      Chino Hills: leaf
+      Diamond Bar: leaf
+      West Covina:
+        Glendora: leaf
+        Rowland Heights: leaf
+    Yorba Linda: leaf
+  Compton: leaf
+  Downey:
+    Whittier:
+      Hacienda Heights: leaf
+      Pico Rivera: leaf
+      South Whittier: leaf
+  Lakewood: leaf
+  Norwalk:
+    Bellflower:
+      Paramount: leaf
+    Cerritos: leaf
+  Torrance:
+    Carson: leaf
+    Inglewood:
+      Hawthorne:
+        Gardena: leaf
+    Redondo Beach: leaf
+Oxnard:
+  Camarillo: leaf
+  San Buenaventura: leaf
+  Santa Barbara:
+    Santa Maria:
+      Arroyo Grande: leaf
+      El Paso de Robles: leaf
+      Lompoc: leaf
+      San Luis Obispo: leaf
+  Thousand Oaks:
+    Simi Valley: leaf
+Phoenix:
+  Albuquerque:
+    Los Lunas: leaf
+    Rio Rancho:
+      Farmington: leaf
+    Santa Fe: leaf
+  Avondale:
+    Buckeye: leaf
+    Goodyear: leaf
+  El Paso:
+    Las Cruces: leaf
+  Glendale:
+    Peoria:
+      Flagstaff: leaf
+      Prescott Valley: leaf
+    Surprise: leaf
+  Mesa:
+    Chandler:
+      Maricopa: leaf
+      Tempe: leaf
+    Gilbert:
+      San Tan Valley:
+        Casa Grande: leaf
+        Queen Creek: leaf
+  Scottsdale: leaf
+  Tucson:
+    Casas Adobes:
+      Catalina Foothills: leaf
+    Sahuarita: leaf
+    Sierra Vista: leaf
+Riverside:
+  Corona: leaf
+  Fontana:
+    Rialto:
+      Colton: leaf
+  Indio:
+    Cathedral City: leaf
+    Palm Desert: leaf
+    Yuma:
+      El Centro: leaf
+  Jurupa Valley: leaf
+  Mission Viejo:
+    Irvine: leaf
+    Laguna Niguel:
+      Aliso Viejo: leaf
+    Lake Forest: leaf
+    San Clemente: leaf
+    Santa Ana:
+      Costa Mesa:
+        Newport Beach: leaf
+      Garden Grove:
+        Westminster: leaf
+      Huntington Beach:
+        Fountain Valley: leaf
+      Tustin: leaf
+  Moreno Valley:
+    Perris: leaf
+    Redlands:
+      Highland: leaf
+      Yucaipa: leaf
+  Murrieta:
+    Hemet:
+      Beaumont: leaf
+    Menifee:
+      Lake Elsinore: leaf
+    Oceanside:
+      Carlsbad:
+        Encinitas: leaf
+      Vista: leaf
+    Temecula: leaf
+  Ontario:
+    Chino:
+      Eastvale: leaf
+  Rancho Cucamonga:
+    Upland: leaf
+  San Bernardino: leaf
+  Victorville:
+    Apple Valley: leaf
+    Hesperia: leaf
+San Diego:
+  Chula Vista:
+    National City: leaf
+  El Cajon:
+    La Mesa: leaf
+    Santee: leaf
+  Escondido:
+    San Marcos: leaf
+San Francisco:
+  Concord:
+    Antioch:
+      Brentwood: leaf
+      Pittsburg: leaf
+    Fairfield:
+      Vacaville: leaf
+    Stockton:
+      Lodi: leaf
+      Manteca: leaf
+      Tracy: leaf
+    Vallejo:
+      Napa: leaf
+      Richmond:
+        Novato: leaf
+        San Rafael: leaf
+    Walnut Creek: leaf
+  Daly City:
+    South San Francisco: leaf
+  Oakland:
+    Alameda: leaf
+    Berkeley: leaf
+    San Leandro:
+      Castro Valley: leaf
+  Sacramento:
+    Arden-Arcade:
+      Carmichael: leaf
+      Rancho Cordova: leaf
+    Chico: leaf
+    Davis:
+      Woodland: leaf
+    Elk Grove: leaf
+    Reno:
+      Carson City: leaf
+      Sparks: leaf
+    Roseville:
+      Citrus Heights: leaf
+      Folsom: leaf
+      Rocklin: leaf
+    West Sacramento: leaf
+    Yuba City: leaf
+  San Jose:
+    Fremont:
+      Hayward:
+        Pleasanton:
+          Dublin: leaf
+        Redwood City: leaf
+        San Mateo: leaf
+        San Ramon: leaf
+        Union City: leaf
+      Livermore: leaf
+      Sunnyvale:
+        Cupertino: leaf
+        Mountain View:
+          Palo Alto: leaf
+    Fresno:
+      Clovis: leaf
+      Madera: leaf
+      Visalia:
+        Hanford: leaf
+        Porterville:
+          Delano: leaf
+        Tulare: leaf
+    Modesto:
+      Merced: leaf
+      Turlock: leaf
+    Salinas:
+      Gilroy:
+        Watsonville: leaf
+      Seaside: leaf
+    Santa Clara:
+      Milpitas: leaf
+    Santa Cruz: leaf
+  Santa Rosa:
+    Petaluma: leaf
+Santa Clarita: leaf
+Santa Monica: leaf
